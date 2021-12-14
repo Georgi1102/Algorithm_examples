@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binary_Search", "Binary_Search\Binary_Search.csproj", "{C6FB0435-CC5A-4E2C-95FC-9C2698248CB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linear_Search", "Linear_Search\Linear_Search.csproj", "{A32DA945-A7A3-457D-B0B5-4348E231D749}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linear_Search", "Linear_Search\Linear_Search.csproj", "{A32DA945-A7A3-457D-B0B5-4348E231D749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump_Search", "Jump_Search\Jump_Search.csproj", "{66798B16-C517-4E77-842C-3F4DD173CD9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A32DA945-A7A3-457D-B0B5-4348E231D749}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A32DA945-A7A3-457D-B0B5-4348E231D749}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A32DA945-A7A3-457D-B0B5-4348E231D749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66798B16-C517-4E77-842C-3F4DD173CD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66798B16-C517-4E77-842C-3F4DD173CD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66798B16-C517-4E77-842C-3F4DD173CD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66798B16-C517-4E77-842C-3F4DD173CD9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
